@@ -5,7 +5,7 @@ This guide assumes the user has functional knowledge of R and RStudio.\
 This tutorial is NOT a guide to learning R or RStudio; there already countless fantastic guides out there!\
 One example are the RStudio Cloud Primers https://rstudio.cloud/learn/primers
 
-![image](pictures/banner.png)
+![image](images/banner.png)
 
 Robbie M Parks 2022
 
@@ -24,8 +24,9 @@ a_04_script_initiate.R              - runs scripts a_01 to a_03
 
 ### basics                          - folder for absolute basics folder:
 
-b_01_absolute_basics.Rmd            - script to describe basics of potentially new concepts used for RStudio Cloud
-b_02_signing_up.md                  - markdown file on how to sign up to RStudio Cloud
+b_01_absolute_basics.Rmd            - R Markdown script to describe basics of potentially new concepts used for RStudio Cloud\
+b_02_signing_up.md                  - markdown file on how to sign up to RStudio Cloud\
+b_03_clone_github_project.md        - markdown file on how to clone a GitHub project to Your Projects in RStudio Cloud
 
 ### initial_examples                - initial examples of useful things to do top familiarise with RStudio Cloud:
 
