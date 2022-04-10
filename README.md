@@ -28,14 +28,6 @@ b_01_absolute_basics.Rmd            - R Markdown script to describe basics of po
 b_02_signing_up.md                  - markdown file on how to sign up to RStudio Cloud\
 b_03_clone_github_project.md        - markdown file on how to clone a GitHub project to Your Projects in RStudio Cloud
 
-### initial_examples                - initial examples of useful things to do top familiarise with RStudio Cloud:
-
-c_01_XX                             - XX
-
-### further_examples                - Further examples of useful things to do:
-
-d_01_XX                             - XX
-
 ### exercises                       - potentially useful exercises to do to further familiarise with RStudio Cloud
 
-XX                                  -
+c_01_run_test_code                  - markdown file running some test code on RStudio Cloud using the cloned github project

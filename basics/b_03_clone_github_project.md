@@ -23,3 +23,5 @@
 ## You should then see a screen which looks a lot like an RStudio set-up on your local computer, but in your web browser and with an extra bar starting with 'Your Workspace':
 
 ![image](../images/rstudio_cloud_first_load.png)
+
+## You should now be ready to start using this GitHub repository in RStudio Cloud!
