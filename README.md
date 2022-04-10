@@ -1,7 +1,9 @@
 # RStudio Cloud Tutorial for participants in Columbia Mailman SHARP Training
 
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses\
-This guide assumes the user has functional knowledge of R and RStudio.\ 
+
+This guide assumes the user has functional knowledge of R and RStudio. 
+
 This tutorial is NOT a guide to learning R or RStudio; there already countless fantastic guides out there!  
 
 ![image](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/banner/banner.png)
