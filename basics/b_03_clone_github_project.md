@@ -12,7 +12,7 @@
 
 ![image](../images/new_project_git_url.png)
 
-## Enter https://github.com/rmp15/rstudio_cloud_tutorial into the box and click "OK":
+## Enter https://github.com/rmp15/rstudio_cloud_tutorial into the box and click "OK" (your instructors for the selected SHARP training course will give you a similar specific link for you to use here):
 
 ![image](../images/new_project_git_link_entered.png)
 
