@@ -6,14 +6,10 @@
 # remove any potential lingering objects and data from RStudio when running a new script
 rm(list=ls())
 
-# 0a Load Packages
+# load here package
 library(here)
 
-####********************************
-#### 1: Create Folder Structure #### 
-####********************************
-
-# 1a Declare directories
+# declare directories
 project.folder <- paste0(print(here::here()),'/')
   banner.folder <- paste0(project.folder, "banner/")
   essentials.folder <- paste0(project.folder, "essentials/")
@@ -22,14 +18,14 @@ project.folder <- paste0(print(here::here()),'/')
   further.examples.folder <- paste0(project.folder, "further_examples/")
   exercises.folder <- paste0(project.folder, "exercises/")
 
-# 1b Identify list of folder locations which have just been created above
+# identify list of folder locations which have just been created above
 folders.names <- grep(".folder",names(.GlobalEnv),value=TRUE)
 
-# 1c Create function to create list of folders
+# create function to create list of folders
 # note that the function will not create a folder if it already exists 
 create_folders <- function(name){
   ifelse(!dir.exists(get(name)), dir.create(get(name), recursive=TRUE), FALSE)
 }
 
-# 1d Create the folders named above
+# create the folders named above
 lapply(folders.names, create_folders)

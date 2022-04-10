@@ -10,16 +10,17 @@ Robbie M Parks 2022
 
 Contents of project by folder and script:
 
-essentials                          - essential scripts in every tutorial:
+essentials                          - folder for essential scripts in every tutorial. This is a lot of background processing stuff which can be skipped if short on time:
 
 a_01_create_folder_structure.R      - script to initially create and define folder structure if not already there\
 a_02_packages_to_load.R             - script to initially set up all the R packages that would be needed for the RStudio Cloud tutorial
 a_03_universal_objects.R            - a set of R objects which occur in all scripts\
 a_04_functions.R                    - a set of functions which are used throughout all scripts
+a_05_script_initiate.R              - 
 
-basics                              - absolute basics (read to learn what )
+basics                              - folder for absolute basics folder:
 
-b_01_absolute_basics                - 
+b_01_absolute_basics                - script to describe basics of potentially new concepts used for RStudio Cloud
 
 Initial examples of useful things to do (for those who have experience with R) (initial_examples):
 
