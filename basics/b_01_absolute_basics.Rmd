@@ -1,15 +1,65 @@
 ---
-title: "Absolute basics of R, RStudio, RStudio Cloud, and GitHub"
+title: "Absolute basics of R, RStudio, RStudio Cloud, Git, and GitHub"
 output: html_document
 ---
 
-## First step to load packages and file locations etc.
+## Create folder stucture, load packages, objects and functions
 ```{r}
 # remove any potential lingering objects and data from RStudio when running a new script
 rm(list=ls())
 
 # 1a Declare root directory, folder locations and load essential stuff
-project.folder <- paste0(print(here::here()),'/')
+project.folder <- paste0(here::here(),'/')
 source(paste0(project.folder,'create_folder_structure.R'))
 source(paste0(essentials.folder,'a_04_script_initiate.R'))
+```
+
+## What is R?
+
+R is an interactive environment developed by statisticians for data analysis.\
+A more detailed Introduction to R can be found at https://www.r-project.org. \
+This guide assumes the user has functional knowledge of R.\
+The code below will provide details of which R Version is currently being used.
+```{r}
+# which R version am I using?
+print(R.Version())
+```
+
+Plot something in R
+```{r}
+set.seed(1)
+x=rnorm(100); y = rnorm(100)
+plot(x,y)
+```
+
+## What is RStudio?
+
+RStudio is an integrated development environment (IDE) for R developed by J J Allaire.\
+RStudio provides a convenient graphical interface to R, making it more user-friendly, and providing many useful features.\
+Such features include direct code execution, tools for plotting, history, debugging and workspace management.\
+This guide assumes the user has functional knowledge of RStudio.\
+A more detailed background on to RStudio can be found at https://www.rstudio.com/about/. \
+The code below will provide details of which RStudio Version is currently being used.\
+```{r}
+print(rstudioapi::versionInfo())
+```
+
+## What is RStudio Cloud?
+
+RStudio Cloud is a cloud-based RStudio which runs projects and code "in the cloud".\
+RStudio Cloud allows convenient scaling and sharing of code, including for training programs such as SHARP.\
+Registration for free is available via https://rstudio.cloud/\
+More details are available via https://rstudio.cloud/learn/guide
+```{r}
+# TO DO
+```
+
+## What is Git?
+```{r}
+# TO DO
+```
+
+## What is GitHub?
+```{r}
+# TO DO
 ```

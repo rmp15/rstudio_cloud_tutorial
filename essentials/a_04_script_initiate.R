@@ -10,4 +10,4 @@ source(paste0(essentials.folder,'a_01_packages_to_load.R'))
 source(paste0(essentials.folder,'a_02_universal_objects.R'))
 
 # load functions used in many scripts
-source(paste0(essentials.folder,'a_03_functions.R'))
+source(paste0(essentials.folder,'a_03_universal_custom_functions.R'))

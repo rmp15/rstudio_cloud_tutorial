@@ -2,7 +2,8 @@
 
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses.\
 This guide assumes the user has functional knowledge of R and RStudio.\
-This tutorial is NOT a guide to learning R or RStudio; there already countless fantastic guides out there!  
+This tutorial is NOT a guide to learning R or RStudio; there already countless fantastic guides out there!\
+One example are the RStudio Cloud Primers https://rstudio.cloud/learn/primers
 
 ![image](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/banner/banner.png)
 
@@ -21,7 +22,7 @@ a_04_script_initiate.R              - runs scripts a_01 to a_03
 
 basics                              - folder for absolute basics folder:
 
-b_01_absolute_basics                - script to describe basics of potentially new concepts used for RStudio Cloud
+b_01_absolute_basics.Rmd                - script to describe basics of potentially new concepts used for RStudio Cloud
 
 Initial examples of useful things to do (for those who have experience with R) (initial_examples):
 

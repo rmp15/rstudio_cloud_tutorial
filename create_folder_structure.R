@@ -8,7 +8,7 @@ print('Creating folder structure')
 library(here)
 
 # declare directories
-project.folder <- paste0(print(here::here()),'/')
+project.folder <- paste0(here::here(),'/')
   banner.folder <- paste0(project.folder, "banner/")
   essentials.folder <- paste0(project.folder, "essentials/")
   basics.folder <- paste0(project.folder, "basics/")
