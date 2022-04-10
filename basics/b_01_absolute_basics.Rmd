@@ -32,6 +32,15 @@ x=rnorm(100); y = rnorm(100)
 plot(x,y)
 ```
 
+Plot something in R using ggplot
+```{r}
+data = data.frame(x,y)
+
+ggplot(data) + 
+  geom_point(aes(x=x,y=y)) +
+  theme_classic()
+```
+
 ## What is RStudio?
 
 RStudio is an integrated development environment (IDE) for R developed by J J Allaire.\
