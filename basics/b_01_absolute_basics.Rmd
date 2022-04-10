@@ -1,0 +1,15 @@
+---
+title: "Absolute basics of R, RStudio, RStudio Cloud, and GitHub"
+output: html_document
+---
+
+## First step to load packages and file locations etc.
+```{r}
+# remove any potential lingering objects and data from RStudio when running a new script
+rm(list=ls())
+
+# 1a Declare root directory, folder locations and load essential stuff
+project.folder <- paste0(print(here::here()),'/')
+source(paste0(project.folder,'create_folder_structure.R'))
+source(paste0(essentials.folder,'a_04_script_initiate.R'))
+```

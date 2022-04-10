@@ -2,9 +2,7 @@
 # Robbie M Parks 2022
 
 # Script to initially create and define folder structure if not already there
-
-# remove any potential lingering objects and data from RStudio when running a new script
-rm(list=ls())
+print('Creating folder structure')
 
 # load here package
 library(here)

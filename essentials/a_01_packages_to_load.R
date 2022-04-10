@@ -2,6 +2,7 @@
 # Robbie M Parks 2022
 
 # Script to initially set up all the R packages that would be needed for the RStudio Cloud tutorial 
+print('Loading packages')
 
 # list of packages to use (in alphabetical order and 5 per row)
 list.of.packages = c('ggplot2')
