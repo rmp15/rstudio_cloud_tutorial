@@ -58,6 +58,7 @@ print(rstudioapi::versionInfo())
 RStudio Cloud is a cloud-based RStudio which runs projects and code "in the cloud".\
 RStudio Cloud allows convenient scaling and sharing of code, including for training programs such as SHARP.\
 Registration for free is available via https://rstudio.cloud/\
+We will go through how to navigate RStudio Cloud in the initial_examples folder\
 More details are available via https://rstudio.cloud/learn/guide
 ```{r}
 # TO DO
