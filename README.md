@@ -2,6 +2,8 @@
 
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses
 
+![image](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/banner/banner.jpg)
+
 Robbie M Parks 2022
 
 Contents of project:
