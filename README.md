@@ -6,27 +6,27 @@ Short guide on how to use the great features of RStudio Cloud in conjunction wit
 
 Robbie M Parks 2022
 
-Contents of project:
+Contents of project by folder and script:
 
-Essential scripts in every tutorial:
+essentials                          - essential scripts in every tutorial:\
 
 a_01_create_folder_structure.R      - creates list of file locations\
 a_02_packages_to_load.R             - required R packages, which are installed (if necessary) then loaded\
 a_03_universal_objects.R            - a set of R objects which occur in all scripts\
 a_04_functions.R                    - a set of functions which are used throughout all scripts
 
-Absolute basics (for absolute beginners):
+Absolute basics (for absolute beginners) (basics):
 
 XX                                  -
 
-Initial examples of useful things to do (for those who have experience with R):
+Initial examples of useful things to do (for those who have experience with R) (initial_examples):
 
 XX                                  -
 
-Further examples of useful things to do (for those who feel like they understand RStudio Cloud quite well and want expand their knowledge base):
+Further examples of useful things to do (for those who feel like they understand RStudio Cloud quite well and want expand their knowledge base) (further_examples):
 
 XX                                  -
 
-Sample exercises:
+Sample exercises (exercises):
 
 XX                                  -
