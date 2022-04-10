@@ -1,6 +1,5 @@
 # Update GitHub project using Git pull
 
-## XX:
+## In progress:
 
 ![image](../images/your_projects_first_time.png)
-

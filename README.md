@@ -28,6 +28,9 @@ b_01_absolute_basics.Rmd            - R Markdown script to describe basics of po
 b_02_signing_up.md                  - markdown file on how to sign up to RStudio Cloud\
 b_03_clone_github_project.md        - markdown file on how to clone a GitHub project to Your Projects in RStudio Cloud\
 b_04_pulling_project_updates.md     - markdown file on how to pull GitHub project updates which may have taken place during the SHARP course\
+b_05_navigating_RStudio_cloud.md    - markdown file on how to navigate RStudio Cloud interface to select current project etc.\
+b_06_saving_permanent_copy.md       - markdown file on how to make your edits to project and save permanent copy.\
+
 
 ### exercises                       - potentially useful exercises to do to further familiarise with RStudio Cloud
 
