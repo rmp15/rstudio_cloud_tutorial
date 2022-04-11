@@ -3,17 +3,6 @@ title: "Absolute basics of R, RStudio, RStudio Cloud, Git, and GitHub"
 output: html_document
 ---
 
-## Create folder stucture, load packages, objects and functions
-```{r}
-# remove any potential lingering objects and data from RStudio when running a new script
-rm(list=ls())
-
-# 1a Declare root directory, folder locations and load essential stuff
-project.folder <- paste0(here::here(),'/')
-source(paste0(project.folder,'create_folder_structure.R'))
-source(paste0(essentials.folder,'a_04_script_initiate.R'))
-```
-
 ## What is R?
 
 R is an interactive environment developed by statisticians for data analysis.\
@@ -36,6 +25,8 @@ Plot something in R using ggplot
 ```{r}
 data = data.frame(x,y)
 
+library(ggplot2)
+
 ggplot(data) + 
   geom_point(aes(x=x,y=y)) +
   theme_classic()
@@ -57,14 +48,20 @@ print(rstudioapi::versionInfo())
 
 RStudio Cloud is a cloud-based RStudio which runs projects and code "in the cloud".\
 RStudio Cloud allows convenient scaling and sharing of code, including for training programs such as SHARP.\
-Registration for free is available via https://rstudio.cloud/\
-We will go through how to navigate RStudio Cloud in the initial_examples folder\
+Registration for free is available via https://rstudio.cloud/ \
+We will go through how to navigate RStudio Cloud in the basics folder\
 More details are available via https://rstudio.cloud/learn/guide
 ```{r}
 # TO DO
 ```
 
 ## What is Git?
+
+Git is a widely used version control system.\
+Version control, or source control, is the practice of tracking and managing changes to software code.\
+Version control systems are software tools that help software teams manage changes to source code over time.\
+In an academic context, 
+More details are available via https://www.atlassian.com/git/tutorials/what-is-git 
 ```{r}
 # TO DO
 ```

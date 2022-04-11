@@ -9,12 +9,9 @@ library(here)
 
 # declare directories
 project.folder <- paste0(here::here(),'/')
-  banner.folder <- paste0(project.folder, "banner/")
-  essentials.folder <- paste0(project.folder, "essentials/")
-  basics.folder <- paste0(project.folder, "basics/")
-  initial.examples.folder <- paste0(project.folder, "initial_examples/")
-  further.examples.folder <- paste0(project.folder, "further_examples/")
+  basics.folder <- paste0(project.folder, "basics/")  
   exercises.folder <- paste0(project.folder, "exercises/")
+  images.folder <- paste0(project.folder, "images/")
 
 # identify list of folder locations which have just been created above
 folders.names <- grep(".folder",names(.GlobalEnv),value=TRUE)

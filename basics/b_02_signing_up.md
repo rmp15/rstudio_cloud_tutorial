@@ -4,16 +4,16 @@
 
 ## So... visit https://rstudio.cloud/ and click on 'Get Started For Free':
 
-![image](../images/rstudio_cloud_frontpage.png)
+![](../images/rstudio_cloud_frontpage.png)
 
 ## Now click on the Sign Up button:
 
-![image](../images/signup_cloud_free.png)
+![](../images/signup_cloud_free.png)
 
 ## Input your details to and then click Sign Up to complete the sign-up process:
 
-![image](../images/register_details.png)
+![](../images/register_details.png)
 
 ## You will then be prompted to verify your email address via your email account. Once this is done, you should be able to log in and see something like this:
 
-![image](../images/your_projects_first_time.png)
+![](../images/your_projects_first_time.png)

@@ -6,22 +6,22 @@
 
 ## Click on "New Project" and you should see several choices, including "New Project from Git Repository":
 
-![image](../images/new_project_select.png)
+![](../images/new_project_select.png)
 
 ## Click on "New Project from Git Repository", you should see an invitation to enter a URL of your Git Repository:
 
-![image](../images/new_project_git_url.png)
+![](../images/new_project_git_url.png)
 
 ## Enter https://github.com/rmp15/rstudio_cloud_tutorial into the box and click "OK" (your instructors for the selected SHARP training course will give you a similar specific link for you to use here):
 
-![image](../images/new_project_git_link_entered.png)
+![](../images/new_project_git_link_entered.png)
 
 ## You should see the "Deploying Project" screen for a time while the project copies from GitHub:
 
-![image](../images/deploying_project.png)
+![](../images/deploying_project.png)
 
 ## You should then see a screen which looks a lot like an RStudio set-up on your local computer, but in your web browser and with an extra bar starting with 'Your Workspace':
 
-![image](../images/rstudio_cloud_first_load.png)
+![](../images/rstudio_cloud_first_load.png)
 
 ## You should now be ready to start using this GitHub repository in RStudio Cloud!
