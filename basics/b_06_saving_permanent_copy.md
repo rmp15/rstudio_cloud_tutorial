@@ -2,7 +2,7 @@
 
 ## Sometimes you will want to add some edits or even new scripts to the copied project in RStudio Cloud, and then take it away for reference and use after the SHARP training. This can be done via the main menu, where you will see the download button highlighted below: 
 
-![](../images/rstudio_cloud_main_menu.png)
+![](../images/rstudio_cloud_main_menu_2.png)
 
 ## Once you click on that, you will get an export processing window:
 
