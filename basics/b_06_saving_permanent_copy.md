@@ -1,4 +1,4 @@
-# Saving permanent local copy
+# Saving a permanent local copy
 
 ## Sometimes you will want to add some edits or even new scripts to the copied project in RStudio Cloud, and then take it away for reference and use after the SHARP training. This can be done via the main menu, where you will see the download button highlighted below: 
 
