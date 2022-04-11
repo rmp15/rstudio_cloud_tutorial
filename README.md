@@ -15,7 +15,7 @@ Robbie M Parks 2022
 
 basics                              - folder with instructions for beginners (full details below)\
 exercises                           - potentially useful exercises to do to further familiarise with RStudio Cloud (full details below)\
-exercises                           - folder with images used in markdown files\
+images                           - folder with images used in markdown files\
 .gitignore                          - this is usually in any project file and will tell Git/GitHub what to ignore locally with annoying stuff that sometimes get created\
 create_folder_structure.R           - script to initially create and define folder structure if not already there
 
