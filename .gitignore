@@ -38,3 +38,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# README html
+README.html
+
+#.DS_Store
+.DS_Store
+
+

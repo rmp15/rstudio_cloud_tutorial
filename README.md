@@ -13,16 +13,10 @@ Robbie M Parks 2022
 
 ### At the top of the project:
 
+.gitignore                          - this is usually in any project file and will tell Git/GitHub what to ignore locally with annoying stuff that sometimes get created\
 create_folder_structure.R           - script to initially create and define folder structure if not already there
 
-### essentials                      - folder for essential scripts in exercises below. This is a lot of background processing stuff which can be skipped if short on time:
-
-a_01_packages_to_load.R             - script to initially set up all the R packages that would be needed for the RStudio Cloud tutorial
-a_02_universal_objects.R            - a set of R objects which occur in all scripts\
-a_03_universal_custom_functions.R   - a set of functions which are used throughout all scripts\
-a_04_script_initiate.R              - runs scripts a_01 to a_03
-
-### basics                          - folder for absolute basics folder:
+### basics                          - folder for beginner instructions:
 
 b_01_absolute_basics.Rmd            - R Markdown script to describe basics of potentially new concepts used for RStudio Cloud\
 b_02_signing_up.md                  - markdown file on how to sign up to RStudio Cloud\
@@ -34,4 +28,4 @@ b_06_saving_permanent_copy.md       - markdown file on how to make your edits to
 ### exercises                       - potentially useful exercises to do to further familiarise with RStudio Cloud
 
 c_01_run_test_code                  -  R Markdown script running some test code on RStudio Cloud using the cloned github project.Rmd\
-c_02_write_own_script_then_save     -  R Markdown script to create simple script which can then be saved and downloaded as a part of a custom permanent copy
+c_02_write_own_script_then_save.Rmd -  R Markdown script to create simple script which can then be saved and downloaded as a part of a custom permanent copy
