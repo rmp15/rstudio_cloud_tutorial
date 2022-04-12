@@ -35,7 +35,16 @@ More details are available via https://rstudio.cloud/learn/guide.
 Git is a widely used version control system.\
 Version control, or source control, is the practice of tracking and managing changes to software code.\
 Version control systems are software tools that help software teams manage changes to source code over time.\
-In an academic context, 
-More details are available via https://www.atlassian.com/git/tutorials/what-is-git 
+In an academic context, it is useful to collaborate on a common project where you can all see the changes which are being made, and then there ends up being a master version once all suggested changes have been processed.\
+
+More details are available via https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners.
 
 ![](../images/what_is_git.png)
+
+## What is GitHub?
+
+GitHub is a for-profit company which offers a cloud-based Git repository hosting service.\
+
+More details are available via https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners.
+
+![](../images/what_is_github.png)
