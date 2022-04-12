@@ -5,7 +5,7 @@
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses.\
 This guide assumes the user has functional knowledge of R and RStudio.
 
-Please first read through each of the md files in the [basics](#basics) folder to be able to register and access RStudio Cloud, to then be able to do perform a couple of simple exercises in RStudio Cloud in the [exercises](#exercises) folder.
+Please first read through each of the md files in the [basics](#basics) folder to be able to register and access RStudio Cloud, then perform a couple of simple exercises in RStudio Cloud in the [exercises](#exercises) folder.
 
 Total time to complete tasks ~ 1-2 hours max. 
 
