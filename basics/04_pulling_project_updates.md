@@ -4,7 +4,7 @@
 
 ![](../images/git_pull_main_screen.png)
 
-## All being well, you will be able to update the project, with a summary window showing what has been changed in the R Project
+## All being well, you will be able to update the project, with a summary window showing what has been changed in the R Project:
 
 ![](../images/git_pull_updates_summary.png)
 
