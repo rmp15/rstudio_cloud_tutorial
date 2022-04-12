@@ -3,72 +3,36 @@ title: "Run test code"
 output: html_document
 ---
 
-## Create folder stucture, load packages, objects and functions
+## remove any potential lingering objects and data from RStudio when running a new script
 ```{r}
-# remove any potential lingering objects and data from RStudio when running a new script
 rm(list=ls())
+```
 
-# 1a Declare root directory, folder locations and load essential stuff
+## declare root directory and folder structure
+```{r}
 project.folder <- paste0(here::here(),'/')
 source(paste0(project.folder,'create_folder_structure.R'))
 ```
 
-## What is R?
-
-R is an interactive environment developed by statisticians for data analysis.\
-A more detailed Introduction to R can be found at https://www.r-project.org. \
-This guide assumes the user has functional knowledge of R.\
-The code below will provide details of which R Version is currently being used.
+## Which R version am I using?
 ```{r}
-# which R version am I using?
 print(R.Version())
 ```
 
-Plot something in R
+## Plot something in R
 ```{r}
 set.seed(1)
 x=rnorm(100); y = rnorm(100)
 plot(x,y)
 ```
 
-Plot something in R using ggplot
+## Plot something in R using ggplot
 ```{r}
 data = data.frame(x,y)
+
+library(ggplot2)
 
 ggplot(data) + 
   geom_point(aes(x=x,y=y)) +
   theme_classic()
-```
-
-## What is RStudio?
-
-RStudio is an integrated development environment (IDE) for R developed by J J Allaire.\
-RStudio provides a convenient graphical interface to R, making it more user-friendly, and providing many useful features.\
-Such features include direct code execution, tools for plotting, history, debugging and workspace management.\
-This guide assumes the user has functional knowledge of RStudio.\
-A more detailed background on to RStudio can be found at https://www.rstudio.com/about/. \
-The code below will provide details of which RStudio Version is currently being used.\
-```{r}
-print(rstudioapi::versionInfo())
-```
-
-## What is RStudio Cloud?
-
-RStudio Cloud is a cloud-based RStudio which runs projects and code "in the cloud".\
-RStudio Cloud allows convenient scaling and sharing of code, including for training programs such as SHARP.\
-Registration for free is available via https://rstudio.cloud/\
-We will go through how to navigate RStudio Cloud in the initial_examples folder\
-More details are available via https://rstudio.cloud/learn/guide
-```{r}
-# TO DO
-```
-
-## What is Git?
-```{r}
-# TO DO
-```
-
-## What is GitHub?
-```{r}
-# TO DO
 ```
