@@ -17,3 +17,5 @@
 ## You will then be prompted to verify your email address via your email account. Once this is done, you should be able to log in and see something like this:
 
 ![](../images/your_projects_first_time.png)
+
+## You can now follow the next files to progress through RStudio Cloud... 
