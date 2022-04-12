@@ -52,4 +52,4 @@ essentials/
 basics/*.html
 
 # basics old b_01_absolute_basics file
-basics/b_01_absolute_basics.Rmd
+basics/01_absolute_basics.Rmd
