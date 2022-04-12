@@ -1,11 +1,16 @@
 # RStudio Cloud Tutorial for participants in Columbia Mailman SHARP Training
 
+![](images/banner.png)
+
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses.\
-This guide assumes the user has functional knowledge of R and RStudio.\
+This guide assumes the user has functional knowledge of R and RStudio.
+
+Please first read through each of the md files in the 'basics' folder to be able to register and access RStudio Cloud, to then be able to do perform a couple of simple exercises in RStudio Cloud in the 'exercises' folder.
+
+Total time to complete tasks ~ 1-2 hours 
+
 This tutorial is NOT a guide to learning R or RStudio; there already countless fantastic guides out there!\
 One example are the RStudio Cloud Primers https://rstudio.cloud/learn/primers
-
-![](images/banner.png)
 
 Robbie M Parks 2022
 
