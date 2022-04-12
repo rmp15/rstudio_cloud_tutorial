@@ -35,7 +35,7 @@ Folder with instructions for beginners to RStudio Cloud:
 [b_06_saving_permanent_copy.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_06_saving_permanent_copy.md)       - markdown file on how to make your edits to project and save permanent copy
 
 ### exercises
-Potentially useful exercises to do to further familiarise with RStudio Cloud
+Potentially useful exercises to do to further familiarise with RStudio Cloud:
 
 [e_01_run_test_code](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/exercises/e_01_run_test_code.Rmd)                  -  R Markdown script running some test code on RStudio Cloud using the cloned github project.Rmd\
 [e_02_write_own_script_then_save.Rmd](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/exercises/e_02_write_own_script_then_save.Rmd) -  R Markdown script to create simple script which can then be saved and downloaded as a part of a custom permanent copy
