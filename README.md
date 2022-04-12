@@ -27,15 +27,15 @@ Robbie M Parks 2022
 ### basics
 Folder with instructions for beginners to RStudio Cloud:
 
-[01_absolute_basics.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_01_absolute_basics.md)              - markdown file to describe basics of potentially new concepts used for RStudio Cloud\
-[02_signing_up.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_02_signing_up.md)               - markdown file on how to sign up to RStudio Cloud\
-[03_clone_github_project.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_03_clone_github_project.md)        - markdown file on how to clone a GitHub project to Your Projects in RStudio Cloud\
-[04_pulling_project_updates.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_04_pulling_project_updates.md)     - markdown file on how to pull GitHub project updates which may have taken place during the SHARP course\
-[05_navigating_RStudio_cloud.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_05_navigating_RStudio_cloud.md)    - markdown file on how to navigate RStudio Cloud interface to select current project\
-[06_saving_permanent_copy.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/b_06_saving_permanent_copy.md)       - markdown file on how to make your edits to project and save permanent copy
+[01_absolute_basics.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/01_absolute_basics.md)              - markdown file to describe basics of potentially new concepts used for RStudio Cloud\
+[02_signing_up.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/02_signing_up.md)               - markdown file on how to sign up to RStudio Cloud\
+[03_clone_github_project.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/03_clone_github_project.md)        - markdown file on how to clone a GitHub project to Your Projects in RStudio Cloud\
+[04_pulling_project_updates.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/04_pulling_project_updates.md)     - markdown file on how to pull GitHub project updates which may have taken place during the SHARP course\
+[05_navigating_RStudio_cloud.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/05_navigating_RStudio_cloud.md)    - markdown file on how to navigate RStudio Cloud interface to select current project\
+[06_saving_permanent_copy.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/06_saving_permanent_copy.md)       - markdown file on how to make your edits to project and save permanent copy
 
 ### exercises
 Potentially useful exercises to do to further familiarise with RStudio Cloud:
 
-[e_01_run_test_code](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/exercises/e_01_run_test_code.Rmd)                  -  R Markdown script running some test code on RStudio Cloud using the cloned github project.Rmd\
-[e_02_write_own_script_then_save.Rmd](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/exercises/e_02_write_own_script_then_save.Rmd) -  R Markdown script to create simple script which can then be saved and downloaded as a part of a custom permanent copy
+[01_run_test_code](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/exercises/01_run_test_code.Rmd)                  -  R Markdown script running some test code on RStudio Cloud using the cloned github project.Rmd\
+[02_write_own_script_then_save.Rmd](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/exercises/02_write_own_script_then_save.Rmd) -  R Markdown script to create simple script which can then be saved and downloaded as a part of a custom permanent copy
