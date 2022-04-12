@@ -23,7 +23,7 @@ The code below will provide details of which RStudio Version is currently being 
 ## What is RStudio Cloud?
 
 RStudio Cloud is a cloud-based RStudio which runs projects and code "in the cloud".\
-RStudio Cloud allows convenient scaling and sharing of code, including for training programs such as SHARP.\
+RStudio Cloud allows convenient scaling and sharing of code, including for training programs such as SHARP. \
 Registration for free is available via https://rstudio.cloud/ \
 We will go through how to navigate RStudio Cloud in the basics folder. \
 More details are available via https://rstudio.cloud/learn/guide.
@@ -32,10 +32,10 @@ More details are available via https://rstudio.cloud/learn/guide.
 
 ## What is Git?
 
-Git is a widely used version control system.\
-Version control, or source control, is the practice of tracking and managing changes to software code.\
-Version control systems are software tools that help software teams manage changes to source code over time.\
-In an academic context, it is useful to collaborate on a common project where you can all see the changes which are being made, and then there ends up being a master version once all suggested changes have been processed.\
+Git is a widely used version control system. \
+Version control, or source control, is the practice of tracking and managing changes to software code. \
+Version control systems are software tools that help software teams manage changes to source code over time. \
+In an academic context, it is useful to collaborate on a common project where you can all see the changes which are being made, and then there ends up being a master version once all suggested changes have been processed. \
 
 More details are available via https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners.
 
