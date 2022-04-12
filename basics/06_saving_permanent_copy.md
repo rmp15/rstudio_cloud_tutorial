@@ -1,6 +1,6 @@
 # Saving a permanent local copy
 
-## Sometimes you will want to add some edits or even new scripts to the copied project in RStudio Cloud, and then take it away for reference and use after the SHARP training. This can be done via the main menu, where you will see the download button highlighted below: 
+## Reword to the following:  At the end of the workshop, you may want to retain all of the edits and notes you made to the R scripts to use for reference later on. This can be done via the main menu, where you will see the download button highlighted below:
 
 ![](../images/rstudio_cloud_main_menu_2.png)
 
@@ -12,4 +12,4 @@
 
 ![](../images/download_export.png)
 
-## This is likely best done at the end of the SHARP training, as you may have made several edits throughout the days.
+## We highly recommend saving everything at the end of the SHARP training, as you may have made several edits throughout the days.
