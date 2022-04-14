@@ -2,6 +2,8 @@
 
 ![](images/banner.png)
 
+## Introduction
+
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses.\
 This guide assumes the user has functional knowledge of R and RStudio.
 
@@ -14,9 +16,9 @@ One example are the [RStudio Cloud Primers](https://rstudio.cloud/learn/primers)
 
 Robbie M Parks 2022.
 
-## Contents of project by folder and script:
+## Contents of project by folder and script
 
-### File structure at the top of the project:
+### File structure at the top of the project
 
 [basics](#basics)                              - folder with instructions for beginners to RStudio Cloud (full details below)\
 [exercises](#exercises)                           - potentially useful exercises to do to further familiarise with RStudio Cloud (full details below)\
