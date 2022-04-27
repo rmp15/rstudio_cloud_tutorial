@@ -25,3 +25,7 @@
 ![](../images/rstudio_cloud_first_load.png)
 
 ## You should now be ready to start using this GitHub repository in RStudio Cloud!
+
+## Click link below for next tutorial
+
+[04_pulling_project_updates.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/04_pulling_project_updates.md)
