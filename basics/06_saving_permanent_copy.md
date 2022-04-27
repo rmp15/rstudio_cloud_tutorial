@@ -1,4 +1,4 @@
-# Saving a permanent local copy
+# 06: Saving a permanent local copy
 
 ## Reword to the following:  At the end of the workshop, you may want to retain all of the edits and notes you made to the R scripts to use for reference later on. This can be done via the main menu, where you will see the download button highlighted below:
 
@@ -14,4 +14,4 @@
 
 ## We highly recommend saving everything at the end of the SHARP training, as you may have made several edits throughout the days.
 
-You can now proceed to the exercises which will need to be done in your RStudio Cloud
+You can now proceed to the exercises folder which will need to be done in your RStudio Cloud...
