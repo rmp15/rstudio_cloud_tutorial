@@ -1,4 +1,4 @@
-# Signing up to RStudio Cloud
+# 02: Signing up to RStudio Cloud
 
 ## The first step is to create a free RStudio Cloud account by visiting https://rstudio.cloud/ and clicking on 'Get Started For Free' to sign up (as detailed in the step-by-step images below):
 
