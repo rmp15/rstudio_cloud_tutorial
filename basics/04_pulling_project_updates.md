@@ -1,4 +1,4 @@
-# Update GitHub project using Git pull
+# 04: Update GitHub project using Git pull
 
 ## SHARP training program instructors may make edits to the R projects after you’ve already saved the project to your RStudio or RStudio Cloud. As a result, they may ask you to 'pull' project updates during one of the sessions you attend. In this case, you should click 'git' in the top right window in the project view and then click on the 'pull' button, as highlighted below:
 
