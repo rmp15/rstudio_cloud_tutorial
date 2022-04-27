@@ -24,7 +24,13 @@
 
 ![](../images/rstudio_cloud_first_load.png)
 
+## Some SHARP course instructors will prefer to let you clone the GitHub repository directly from the GitHub project repository website (the one for this project is https://github.com/rmp15/rstudio_cloud_tutorial), which you can do by click on the blue Code button and clicking 'Download ZIP':
+
+![](../images/download_from_github_website.png)
+
 ## You should now be ready to start using this GitHub repository in RStudio Cloud!
+
+Note: Some SHARP course instructors may create a GitHub repository in advance and share it with you before the first day of the course. They will let you know if that is the case. If so, you will be able to clone their GitHub project in the method described here.
 
 Click link below for next tutorial
 

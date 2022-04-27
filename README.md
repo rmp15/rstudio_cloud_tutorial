@@ -7,14 +7,18 @@
 Short guide on how to use the great features of RStudio Cloud in conjunction with SHARP Training courses.\
 This guide assumes the user has functional knowledge of R and RStudio.
 
-Please first read through each of the md files in the [basics](#basics) folder to be able to register and access RStudio Cloud, then perform a couple of simple exercises in RStudio Cloud in the [exercises](#exercises) folder.
+Please first read through each of the md files in the [basics](#basics) folder to be able to create an Rstudio Cloud account, log in RStudio Cloud, and clone this GitHub repository (repo).
+
+Then perform a couple of simple exercises in RStudio Cloud in the [exercises](#exercises) folder through the cloned GitHub repo.
 
 Total time to complete tasks ~ 1-2 hours max. 
 
-This tutorial is NOT a guide to learning R or RStudio; there already countless fantastic guides out there!\
+This tutorial is NOT a guide to learning R or RStudio in any great depth; there already countless fantastic guides out there!\
 One example are the [RStudio Cloud Primers](https://rstudio.cloud/learn/primers).
 
 Robbie M Parks 2022.
+
+Thank you to Ahlam Abuawad, Anne Bozack, Lukas Vlahos, and Abigail Welbourn for feedback.
 
 ## Contents of project by folder and script
 

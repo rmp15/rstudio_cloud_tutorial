@@ -29,6 +29,8 @@ More details are available via https://rstudio.cloud/learn/guide.
 
 ## What is Git?
 
+This is just for information, as you will not be expected to be an expert on Git to participate in your SHARP course.
+
 Git is a widely used version control system. \
 Version control, or source control, is the practice of tracking and managing changes to software code. \
 Version control systems are software tools that help software teams manage changes to source code over time. \
@@ -40,6 +42,8 @@ More details are available via https://www.codementor.io/git/tutorial/git-github
 ![](../images/what_is_git.png)
 
 ## What is GitHub?
+
+This is just for information, as you will not be expected to be an expert on GitHub to participate in your SHARP course.
 
 GitHub is a for-profit company which offers a cloud-based Git repository hosting service. \
 For most people, Git and GitHub are interchangeable, but one is the version control system used (Git), and the other is the hosting service (GitHub).
