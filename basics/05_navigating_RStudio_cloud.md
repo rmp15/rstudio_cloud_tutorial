@@ -11,3 +11,7 @@
 ## If you want to log out of your account, click on your name in the top-right of the menu, then click on 'Log Out':
 
 ![](../images/log_out.png)
+
+## Click link below for next tutorial
+
+[06_saving_permanent_copy.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/06_saving_permanent_copy.md)
