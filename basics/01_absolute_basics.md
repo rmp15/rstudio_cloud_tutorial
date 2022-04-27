@@ -13,7 +13,7 @@ Below is a sample screenshot of an R session on a local computer:
 RStudio is an integrated development environment (IDE) for R developed by J J Allaire.\
 RStudio provides a convenient graphical interface to R, making it more user-friendly, and providing many useful features.\
 Such features include direct code execution, tools for plotting, history, debugging and workspace management.\
-A more detailed background on to RStudio can be found at https://www.rstudio.com/about/. \
+A more detailed background on to RStudio can be found at https://www.rstudio.com/about/.
 
 ![](../images/what_is_rstudio.png)
 
@@ -47,3 +47,5 @@ For most people, Git and GitHub are interchangeable, but one is the version cont
 More details are available via https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners.
 
 ![](../images/what_is_github.png)
+
+## Link to next 
