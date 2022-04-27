@@ -1,4 +1,4 @@
-# Clone GitHub project to RStudio Cloud
+# 03: Clone GitHub project to RStudio Cloud
 
 ## From signing up and logging in to Rstudio Cloud via https://rstudio.cloud/, you should see this page:
 
