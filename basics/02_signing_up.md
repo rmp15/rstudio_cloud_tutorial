@@ -18,6 +18,6 @@
 
 ## You should now be ready to learn how to clone a GitHub repository into RStudio Cloud!
 
-## Click link below for next tutorial
+Click link below for next tutorial
 
 [03_clone_github_project.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/03_clone_github_project.md)
