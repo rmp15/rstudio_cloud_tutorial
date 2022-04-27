@@ -14,7 +14,7 @@ Then perform a couple of simple exercises in RStudio Cloud in the [exercises](#e
 Total time to complete tasks ~ 1-2 hours max. 
 
 This tutorial is NOT a guide to learning R or RStudio in any great depth; there already countless fantastic guides out there!\
-One example are the [RStudio Cloud Primers](https://rstudio.cloud/learn/primers).
+One example is the [RStudio Cloud Primers](https://rstudio.cloud/learn/primers).
 
 Robbie M Parks 2022.
 
