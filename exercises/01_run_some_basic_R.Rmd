@@ -1,0 +1,57 @@
+---
+title: "Run some basic R"
+output: html_document
+---
+
+## Remove any potential lingering objects and data from RStudio when running a new script
+```{r}
+rm(list=ls())
+```
+
+## Which R version am I using?
+```{r}
+print(R.Version())
+```
+
+## Plot something in R
+```{r}
+set.seed(1)
+x=rnorm(100); y = rnorm(100)
+plot(x,y)
+```
+
+## Plot something in R using ggplot
+```{r}
+data = data.frame(x,y)
+
+library(ggplot2)
+
+ggplot(data) + 
+  geom_point(aes(x=x,y=y)) +
+  theme_classic()
+```
+
+## Create a vector
+```{r}
+# TO DO
+```
+
+## Create and index a matrix
+```{r}
+# TO DO
+```
+
+## Using which 
+```{r}
+# TO DO
+```
+
+## Using R Operators (see https://www.datamentor.io/r-programming/operator/ for more info)
+```{r}
+# TO DO
+```
+
+## Create a function and use it
+```{r}
+# TO DO
+```
