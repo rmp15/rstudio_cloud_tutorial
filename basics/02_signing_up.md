@@ -16,4 +16,6 @@
 
 ![](../images/your_projects_first_time.png)
 
-## You can now follow the next files to progress through RStudio Cloud... 
+## Click link below for next tutorial
+
+[03_clone_github_project.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/03_clone_github_project.md)
