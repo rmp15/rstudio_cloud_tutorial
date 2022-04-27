@@ -10,6 +10,6 @@
 
 ## You can then continue with the training with the updated project!
 
-## Click link below for next tutorial
+Click link below for next tutorial
 
 [05_navigating_RStudio_cloud.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/05_navigating_RStudio_cloud.md)
