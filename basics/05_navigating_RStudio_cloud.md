@@ -12,6 +12,8 @@
 
 ![](../images/log_out.png)
 
-## Click link below for next tutorial
+## Now you should be ready to learn how to save a permanent copy of the GitHub repository!
+
+Click link below for next tutorial
 
 [06_saving_permanent_copy.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/06_saving_permanent_copy.md)
