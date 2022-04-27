@@ -16,7 +16,7 @@
 
 ![](../images/your_projects_first_time.png)
 
-You should now be ready to learn how to clone a GitHub repository into RStudio Cloud!
+## You should now be ready to learn how to clone a GitHub repository into RStudio Cloud!
 
 ## Click link below for next tutorial
 
