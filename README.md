@@ -9,7 +9,7 @@ This guide assumes the user has functional knowledge of R and RStudio.
 
 Please first read through each of the md files in the [basics](#basics) folder to be able to create an Rstudio Cloud account, log in RStudio Cloud, and clone this GitHub repository (repo).
 
-Then perform a couple of simple exercises in RStudio Cloud in the [exercises](#exercises) folder through the cloned GitHub repo.
+Then perform a couple of simple exercises in RStudio Cloud in the [exercises](#exercises) folder through the cloned GitHub repository.
 
 Total time to complete tasks ~ 1-2 hours max. 
 
