@@ -1,4 +1,4 @@
-# Navigating RStudio Cloud menu
+# 05: Navigating RStudio Cloud menu
 
 ## Once you've logged in to your RStudio Cloud account after the very first time, you'll generally have a view of projects that you've copied over:
 
