@@ -13,3 +13,5 @@
 ![](../images/download_export.png)
 
 ## We highly recommend saving everything at the end of the SHARP training, as you may have made several edits throughout the days.
+
+You can now proceed to the exercises which will need to be done in your RStudio Cloud
