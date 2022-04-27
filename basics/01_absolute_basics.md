@@ -48,4 +48,6 @@ More details are available via https://www.codementor.io/git/tutorial/git-github
 
 ![](../images/what_is_github.png)
 
-## Link to next 
+## Link to next tutorial file
+
+[02_signing_up.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/02_signing_up.md)
