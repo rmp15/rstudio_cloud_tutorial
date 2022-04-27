@@ -14,4 +14,8 @@
 
 ## We highly recommend saving everything at the end of the SHARP training, as you may have made several edits throughout the days.
 
+## Some SHARP course instructors will prefer to let you clone the GitHub repository directly from the GitHub project repository website (the one for this project is https://github.com/rmp15/rstudio_cloud_tutorial), which you can do by clicking on the blue Code button and clicking 'Download ZIP':
+
+![](../images/download_from_github_website.png)
+
 You can now proceed to the exercises folder which will need to be done in your RStudio Cloud...
