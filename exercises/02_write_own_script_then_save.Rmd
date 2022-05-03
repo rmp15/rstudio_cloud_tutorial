@@ -58,3 +58,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 # FOR YOU TO DO
 ```
+
+## Once you have filled in the questions, try 'Knitting' via the button in the toolbar above this window
