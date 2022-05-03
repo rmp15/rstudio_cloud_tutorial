@@ -22,14 +22,16 @@ rm(list=ls())
 print(R.Version())
 ```
 
-## Plot something in R
+## Plot something
+
+### Plot something using R base functionality
 ```{r}
 set.seed(1)
 x <- rnorm(100); y = rnorm(100)
 plot(x,y)
 ```
 
-## Plot something in R using ggplot
+### Plot something in R using ggplot
 ```{r}
 data <- data.frame(x,y)
 
@@ -39,55 +41,214 @@ ggplot(data) +
   geom_point(aes(x=x,y=y)) +
   xlab('x-axis label') + ylab('y-axis label') +
   theme_classic()
+
+data <- NULL
+```
+
+## Create numerical objects and make some simple operational manipulations and tests
+
+### Create two numerical objects, a and b
+```{r}
+a <- 11
+b <- 6
+```
+
+### Addition of a and b
+```{r}
+a+b
+```
+
+### Subtraction of a and b
+```{r}
+a-b
+```
+
+### Multiplication of a and b
+```{r}
+a*b
+```
+
+### Division of a and b
+```{r}
+a/b
+```
+
+### Modulus (remainder of division) of a and b
+```{r}
+a%%b
+```
+
+### Raise a to the power of b
+```{r}
+a^b
+```
+
+### Is a less than b?
+```{r}
+a<b
+```
+
+### Is b less than a?
+```{r}
+b<a
+```
+
+### Is a equal to b?
+```{r}
+a == b
+```
+
+### Is a not equal to b?
+```{r}
+a!=b
 ```
 
 ## Create a vector and make simple manipulations
+
+### Create vector_1
 ```{r}
-# create vector_1
 vector_1 <- c(6,7,8,9,10)
+```
 
-# print how many elements vector_1 has
+### Print how many elements vector_1 has
+```{r}
 length(vector_1)
+```
 
-# third element of vector_1
+### Third element of vector_1
+```{r}
 vector_1[3]
+```
 
-# second and fourth element of vector_1
+### Second and fourth element of vector_1
+```{r}
 vector_1[c(2,4)]
+```
 
-# access all but first element of vector_1
+### Access all but first element of vector_1
+```{r}
 vector_1[-1]
+```
 
-# take elements of vector_1 less than 9
+### Take elements of vector_1 less than 9
+```{r}
 vector_1[vector_1<9]
+```
 
-# modify vector_1 2nd element
+### Modify vector_1 2nd element
+```{r}
 vector_1[2] <- -1
 vector_1
+```
 
-# modify vector elements less than 9 to be -1
+### Modify vector elements less than 9 to be -1
+```{r}
 vector_1[vector_1 < 9] <- -1 
 vector_1
+```
 
-# truncate vector first four elements
+### Truncate vector_1 first four elements
+```{r}
+vector_1 <- vector_1[1:4]
+vector_1
+```
+
+### Delete vector_1
+```{r}
+vector_1 <- NULL
+```
+
+### Add two vectors together
+```{r}
+vector_1 <- c(6,7,8,9,10)
+vector_2 <- c(11,12,13,14,15)
+vector_3 <- vector_1 + vector_2
+vector_3
+```
+
+### Multiply two vectors together
+```{r}
+vector_4 <- vector_1 * vector_2
+vector_4
+```
+
+## Using 'which' function for a vector to find elements of vector
+```{r}
+vector_4_elements <- which(vector_4 < 100)
+vector_4_elements
+vector_4[vector_4_elements]
 ```
 
 ## Create and index a matrix
+
+### Create matrix_1
 ```{r}
-# TO DO
+matrix_1_data <- c(1,2,3,4,5,6,7,8,9) 
+matrix_1 <- matrix(matrix_1_data,nrow=3,ncol=3,byrow=TRUE)
+matrix_1
 ```
 
-## Using 'which' function 
+### Print how many elements matrix_1 has
 ```{r}
-# TO DO
+length(matrix_1)
 ```
 
-## Using R Operators (see https://www.datamentor.io/r-programming/operator/ for more info)
+### Dimensions of matrix_1
 ```{r}
-# TO DO
+dim(matrix_1)
+```
+
+### Third element of second row
+```{r}
+matrix_1[2,3]
+```
+
+### Delete matrix_1
+```{r}
+matrix_1 <- NULL
+```
+
+### Add two matrices together
+```{r}
+matrix_1_data <- c(1,2,3,4,5,6,7,8,9) 
+matrix_1 <- matrix(matrix_1_data,nrow=3,ncol=3,byrow=TRUE)
+
+matrix_2_data <- c(11,12,13,14,15,16,17,18,19) 
+matrix_2 <- matrix(matrix_2_data,nrow=3,ncol=3,byrow=TRUE)
+
+matrix_3 <- matrix_1 + matrix_2
+matrix_3
+```
+
+### Multiply two matrices together
+```{r}
+matrix_4 <- matrix_1 %*% matrix_2
+matrix_4
 ```
 
 ## Create a function and use it
+
+### Formula to convert celsius to fahrenheit
 ```{r}
-# TO DO
+temp_Fahrenheit = 32
+temp_Celsius <- (temp_Fahrenheit - 32) * 5 / 9
+temp_Celsius
+```
+
+### Define function to convert celsius to fahrenheit
+```{r}
+fahrenheit_to_celsius <- function(temp_F) {
+  temp_C <- (temp_F - 32) * 5 / 9
+  return(temp_C)
+}
+```
+
+### Use function above to convert 
+```{r}
+fahrenheit_to_celsius(5)
+```
+
+### Farhrenheit and celsius are the same at -40
+```{r}
+fahrenheit_to_celsius(-40)
 ```

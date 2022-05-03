@@ -5,10 +5,56 @@ output:
     toc: true
     toc_float: true
 editor_options: 
-  chunk_output_type: console---
+  chunk_output_type: console
+---
 
-## TO FINISH
-```{r}
-# TO FINISH
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Follow instructions below, then save the file. Once this is done,follow [06_saving_permanent_copy.md](https://github.com/rmp15/rstudio_cloud_tutorial/blob/main/basics/06_saving_permanent_copy.md) to save your own adapted copy of this GitHub Repository!
+
+### Create a vector called vector_1 with elements 101,102,103,104,105
+```{r}
+# FOR YOU TO DO
+```
+
+### Print how many elements vector_1 has
+```{r}
+# FOR YOU TO DO
+```
+
+### Third element of vector_1
+```{r}
+# FOR YOU TO DO
+```
+
+### Second and fourth element of vector_1
+```{r}
+# FOR YOU TO DO
+```
+
+### Access all but first element of vector_1
+```{r}
+# FOR YOU TO DO
+```
+
+### Take elements of vector_1 less than 104
+```{r}
+# FOR YOU TO DO
+```
+
+### Modify vector_1 2nd element
+```{r}
+# FOR YOU TO DO
+```
+
+### Modify vector elements less than 104 to be -1
+```{r}
+# FOR YOU TO DO
+```
+
+### Modify vector elements less than 9 to be -1
+```{r}
+# FOR YOU TO DO
+```
