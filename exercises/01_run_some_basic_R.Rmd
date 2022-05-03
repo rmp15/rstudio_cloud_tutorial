@@ -1,7 +1,16 @@
 ---
 title: "Run some basic R"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+editor_options: 
+  chunk_output_type: console
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## Remove any potential lingering objects and data from RStudio when running a new script
 ```{r}
@@ -16,24 +25,51 @@ print(R.Version())
 ## Plot something in R
 ```{r}
 set.seed(1)
-x=rnorm(100); y = rnorm(100)
+x <- rnorm(100); y = rnorm(100)
 plot(x,y)
 ```
 
 ## Plot something in R using ggplot
 ```{r}
-data = data.frame(x,y)
+data <- data.frame(x,y)
 
 library(ggplot2)
 
 ggplot(data) + 
   geom_point(aes(x=x,y=y)) +
+  xlab('x-axis label') + ylab('y-axis label') +
   theme_classic()
 ```
 
-## Create a vector
+## Create a vector and make simple manipulations
 ```{r}
-# TO DO
+# create vector_1
+vector_1 <- c(6,7,8,9,10)
+
+# print how many elements vector_1 has
+length(vector_1)
+
+# third element of vector_1
+vector_1[3]
+
+# second and fourth element of vector_1
+vector_1[c(2,4)]
+
+# access all but first element of vector_1
+vector_1[-1]
+
+# take elements of vector_1 less than 9
+vector_1[vector_1<9]
+
+# modify vector_1 2nd element
+vector_1[2] <- -1
+vector_1
+
+# modify vector elements less than 9 to be -1
+vector_1[vector_1 < 9] <- -1 
+vector_1
+
+# truncate vector first four elements
 ```
 
 ## Create and index a matrix
@@ -41,7 +77,7 @@ ggplot(data) +
 # TO DO
 ```
 
-## Using which 
+## Using 'which' function 
 ```{r}
 # TO DO
 ```

@@ -1,7 +1,11 @@
 ---
 title: "Write own script then save"
-output: html_document
----
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+editor_options: 
+  chunk_output_type: console---
 
 ## TO FINISH
 ```{r}
