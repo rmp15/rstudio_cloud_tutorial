@@ -40,8 +40,8 @@ Potentially useful exercises to do to further familiarise with RStudio Cloud (to
 
 ### File structure at the top of the project
 
-[basics](#basics)                              - folder with instructions for beginners to RStudio Cloud (full details below)\
-[exercises](#exercises)                        - potentially useful exercises to do to further familiarise with RStudio Cloud (full details below)\
+[basics](#basics)                              - folder with instructions for beginners to RStudio Cloud (full details above)\
+[exercises](#exercises)                        - potentially useful exercises to do to further familiarise with RStudio Cloud (full details above)\
 [images](/images)                              - folder with images used in markdown files\
 [.gitignore](.gitignore)                      - this is usually in any project file and will tell Git/GitHub what to ignore locally with annoying stuff that sometimes get created\
 [create_folder_structure.R](create_folder_structure.R) - script to initially create and define folder structure if not already there
