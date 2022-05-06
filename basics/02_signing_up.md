@@ -8,7 +8,7 @@
 
 ![](../images/signup_cloud_free.png)
 
-## Fill out your contact information and then click Sign Up to complete the sign-up process:
+## Fill out your contact information and then click Sign Up to complete the sign-up process. It is recommended to use an email address that you will have access to for the foreseeable future:
 
 ![](../images/register_details.png)
 
