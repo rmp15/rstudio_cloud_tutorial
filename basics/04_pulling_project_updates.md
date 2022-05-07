@@ -8,6 +8,10 @@
 
 ![](../images/git_pull_updates_summary.png)
 
+## Note: There is also a Git 'push' button, which you will likely not need, but will be useful in saving to a GitHub project which you have administrative rights to modify (not this project but perhaps others):
+
+![](../images/git_pull_main_screen.png)
+
 ## You can then continue with the training with the updated project!
 
 Click link below for next tutorial
