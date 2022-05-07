@@ -18,6 +18,14 @@
 
 ![](../images/download_from_github_website.png)
 
-## You can now proceed to the exercises folder which will need to be done in your RStudio Cloud...
+## You can now proceed to the exercises folder which will need to be done in your RStudio Cloud. On the RStudio Cloud log in main menu, click on the rstudio_cloud_tutorial project title: 
 
 ![](../images/rstudio_cloud_main_menu_select_rstudio_cloud_exercises.png)
+
+## Click on the exercises folder:
+
+![](../images/rstudio_cloud_main_project_exercises.png)
+
+## There are two exercises in this folder which you can go through by clicking on each of the exercises: 
+
+![](../images/rstudio_cloud_main_project_exercises_2.png)
