@@ -18,7 +18,7 @@ One example is the [RStudio Cloud Primers](https://rstudio.cloud/learn/primers).
 
 Robbie M Parks 2022.
 
-Thank you to Ahlam Abuawad, Anne Bozack, Lukas Vlahos, and Abigail Welbourn for feedback.
+Thank you to Ahlam Abuawad, Anne Bozack, Vivian Do, Lukas Vlahos, and Abigail Welbourn for feedback.
 
 ## Contents of project by folder and script
 
