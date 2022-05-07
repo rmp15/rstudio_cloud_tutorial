@@ -19,3 +19,5 @@
 ![](../images/download_from_github_website.png)
 
 ## You can now proceed to the exercises folder which will need to be done in your RStudio Cloud...
+
+![](../images/rstudio_cloud_main_menu_select_rstudio_cloud_exercises.png)
