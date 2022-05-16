@@ -31,7 +31,7 @@ More details are available via https://rstudio.cloud/learn/guide.
 
 An R package is an important and very common form of shareable code. A package is usually downloaded from the Comprehensive R Archive Network (CRAN), and is usually very easy to do in RStudio Cloud. Countless example exist, including very famous examples such as [ggplot](https://epirhandbook.com/en/ggplot-basics.html) and [tidyverse](https://tidyverse.tidyverse.org/). When you first use an RStudio Cloud with a cloned GitHub project and start doing something, you will often see something like the yellow bar at the top of the window highlighted below asking if you want to install a package. The answer is almost always yes. You can assume the answer will be yes throughout this tutorial.
 
-![](../images/rstudio_cloud_first_load.png)
+![](../images/rstudio_cloud_packages.png)
 
 ## What is Git?
 
