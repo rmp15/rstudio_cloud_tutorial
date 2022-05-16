@@ -1,4 +1,4 @@
-# 01: Absolute basics of R, RStudio, RStudio Cloud, Git, and GitHub
+# 01: Absolute basics of R, RStudio, RStudio Cloud, R Packages, Git, and GitHub
 
 ## What is R?
 
