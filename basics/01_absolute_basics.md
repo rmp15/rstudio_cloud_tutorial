@@ -29,9 +29,9 @@ More details are available via https://rstudio.cloud/learn/guide.
 
 ## What is an R package?
 
-An R package is an important form of shareable code that is often used. They are usually downloaded from the Comprehensive R Archive Network (CRAN), and is usually very easy to do via RStudio Cloud. Countless example exist, such as [ggplot](https://cran.r-project.org/web/packages/ggplot2/index.html) and [tidyverse](https://tidyverse.tidyverse.org/). When you first use an RStudio Cloud with a cloned GitHub project, you will usually see something like the yellow bar at the top of the window highlighted below asking if you want to install a package. The answer is almost always yes. You can assume the answer will be yes for this tutorial.
+An R package is an important and very common form of shareable code. A package is usually downloaded from the Comprehensive R Archive Network (CRAN), and is usually very easy to do in RStudio Cloud. Countless example exist, including very famous examples such as [ggplot](https://epirhandbook.com/en/ggplot-basics.html) and [tidyverse](https://tidyverse.tidyverse.org/). When you first use an RStudio Cloud with a cloned GitHub project and start doing something, you will often see something like the yellow bar at the top of the window highlighted below asking if you want to install a package. The answer is almost always yes. You can assume the answer will be yes throughout this tutorial.
 
-In R, the fundamental unit of shareable code is the package. A package bundles together code, data, documentation, and tests, and is easy to share with others. As of June 2019, there were over 14,000 packages available on the Comprehensive R Archive Network, or CRAN, the public clearing house for R packages. 
+![](../images/rstudio_cloud_first_load.png)
 
 ## What is Git?
 
