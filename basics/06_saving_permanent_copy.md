@@ -29,3 +29,7 @@
 ## There are two exercises in this folder which you can go through by clicking on each of the exercises: 
 
 ![](../images/rstudio_cloud_main_project_exercises_2.png)
+
+## You may also notice that there are two additional files, one for each of the exercises highlighted above, with .html file endings. These files can be opened in a web browser to see the code in a convenient and readable way. This done via a process called 'knitting'. To create your own .html version, open an exercise and click on the 'knit' button highlighted below:
+
+![](../images/rstudio_cloud_main_project_knitting.png)
