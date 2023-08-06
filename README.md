@@ -1,4 +1,4 @@
-# RStudio Cloud Tutorial for participants in Columbia Mailman SHARP Training
+# Posit (RStudio) Cloud Tutorial for participants in Columbia Mailman SHARP Training
 
 ![](images/banner.png)
 
